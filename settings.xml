@@ -1,0 +1,9 @@
+ <proxies>
+  <proxy>
+    <id>proxy</id>
+    <active>true</active>
+    <protocol>http</protocol>
+    <host>172.22.218.218</host>
+    <port>8085</port>
+  </proxy>
+</proxies>
